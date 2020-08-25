@@ -14,3 +14,5 @@ flags:
 
 the name can be shortened
 if it does not match exactly, the first match on mal is used
+
+Thomas is someone who likes Anime...
